@@ -19,7 +19,7 @@ import org.mybatis.generator.internal.DefaultShellCallback;
  *<p>Title:  GeneratorSqlMap.java</p>
  *<p>Description:  实现逆向工程（）</p>
  * @package   mybatisGenerator
- * @author    黄信胜
+ * @author    hxs 
  * @date      2018年12月6日下午11:34:35
  * @version 1.0
  */
